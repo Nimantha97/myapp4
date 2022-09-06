@@ -1,4 +1,4 @@
-package com.nimantha.myapp2
+package com.nimantha.myapp4
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.nimantha.myapp2.databinding.ActivityMainBinding
+import com.nimantha.myapp4.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

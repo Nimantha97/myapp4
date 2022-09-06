@@ -1,4 +1,4 @@
-package com.nimantha.myapp2
+package com.nimantha.myapp4
 
 import android.R
 import android.widget.TextView
